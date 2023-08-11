@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/devs-PortfolioHub/static/css/main.8be159aa.css",
-    "main.js": "/devs-PortfolioHub/static/js/main.3347f47e.js",
+    "main.js": "/devs-PortfolioHub/static/js/main.59ce451a.js",
     "static/js/787.cda612ba.chunk.js": "/devs-PortfolioHub/static/js/787.cda612ba.chunk.js",
     "static/media/logo-gradpurple.png": "/devs-PortfolioHub/static/media/logo-gradpurple.6bec4e79f6557e41832b.png",
     "static/media/Jost-VariableFont_wght.ttf": "/devs-PortfolioHub/static/media/Jost-VariableFont_wght.6de07354a7108bacf175.ttf",
@@ -10,11 +10,11 @@
     "static/media/Drawing.png": "/devs-PortfolioHub/static/media/Drawing.cf166326eaa714fa5b87.png",
     "index.html": "/devs-PortfolioHub/index.html",
     "main.8be159aa.css.map": "/devs-PortfolioHub/static/css/main.8be159aa.css.map",
-    "main.3347f47e.js.map": "/devs-PortfolioHub/static/js/main.3347f47e.js.map",
+    "main.59ce451a.js.map": "/devs-PortfolioHub/static/js/main.59ce451a.js.map",
     "787.cda612ba.chunk.js.map": "/devs-PortfolioHub/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8be159aa.css",
-    "static/js/main.3347f47e.js"
+    "static/js/main.59ce451a.js"
   ]
 }
