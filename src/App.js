@@ -10,12 +10,12 @@ import MyProfile from "./components/MyProfile/MyProfile";
 import MyProfileEditForm from "./components/MyProfileEditForm/MyProfileEditForm";
 import DeveloperProfile from "./components/DeveloperProfile/DeveloperProfile";
 import Footer from "./components/Footer/Footer";
-import { BrowserRouter, Routes, Route, Outlet } from "react-router-dom";
+import { HashRouter, Routes, Route, Outlet } from "react-router-dom";
 
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <HashRouter>
         <HeroImage />
         <Routes>
           <Route path="/" element={<LandingPage />} />
@@ -37,7 +37,7 @@ function App() {
             <Route path="profile/edit" element={<MyProfileEditForm />} />
           </Route>
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }
